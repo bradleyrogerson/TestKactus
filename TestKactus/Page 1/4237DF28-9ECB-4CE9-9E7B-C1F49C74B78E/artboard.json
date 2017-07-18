@@ -1,0 +1,64 @@
+{
+  "_class": "artboard",
+  "do_objectID": "4237DF28-9ECB-4CE9-9E7B-C1F49C74B78E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 798,
+    "width": 686,
+    "x": 525,
+    "y": 98
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Artboard",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": true,
+  "layers": [
+    {
+      "id": "433E74E7-3460-44B2-8374-5C21287DD64F",
+      "class": "text"
+    }
+  ],
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "hasBackgroundColor": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "resizesContent": false,
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": []
+  }
+}
