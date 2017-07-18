@@ -11,7 +11,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 380,
+    "height": 475,
     "width": 492.63671875,
     "x": 104,
     "y": 149
@@ -246,7 +246,7 @@
                 "UID": 3
               }
             },
-            "TESTING KACTUS\nI ADDED SOME \nTEXT",
+            "TESTING KACTUS\nI ADDED SOME \nTEXTadded more text",
             {
               "NS.keys": [
                 {
@@ -452,7 +452,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{0, 17}, {484, 343}}",
+  "glyphBounds": "{{0, 17}, {484, 440}}",
   "heightIsClipped": false,
   "lineSpacingBehaviour": 2,
   "textBehaviour": 1
